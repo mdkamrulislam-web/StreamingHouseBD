@@ -216,6 +216,14 @@ h3{
   line-height: 2;
 }
 
+.pages{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #676BD6;
+  font-weight: bold;
+  font-family: "Montserrat";
+}
+
 .cta-title{
   font-weight: 900;
 }
